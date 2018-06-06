@@ -1,0 +1,26 @@
+1) N.A on left side fields.                                               DONE
+2) Logo should look good
+3) Button Hover back grey front orange
+4) Home page should have banner available service , coming soon.
+5)Seach criteria bottom borders should be straight.                       DONE
+6)Searvh criteria border orange.                                          DONE
+7)search criteria align center.                                           DONE
+8)Login , Register , Forgot Redisgn like search criteria                  DONE
+9)Top links back orange front white                                       DONE
+10)Logout should be button.
+11)Resolution change should not affect grid width.
+12)Validation should be under textbox.                                    DONE
+13)Detail margin should be zero on left.                                  DONE
+14)Blue line should not be there.                                         DONE
+15)Expand all button should not get resized.                              DONE
+16)Update buttons should have all capital initials.                       DONE
+17)Rupees should be round of to 2 decimal places                          DONE
+18)Export to excel spaces.                                                DONE
+19)Icon logout button
+20)Icon on Username , password
+21)Icon on Accordians.
+
+
+
+
+
